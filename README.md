@@ -16,7 +16,26 @@ City Skeleton 城市骨骼
 北京的骨骼中，最粗壮的那一条是三环，北四环也跟北三环紧紧贴在了一起。还能明显看到北京的几个郊县卫星城。
 ![Beijing](http://multisim.me/media/images/beijing.png)
 
-一些图片的效果意外地好（比如成都的），可以看出城市中公交线路的分布和城市的发展有着千丝万缕的关系。
+#### 上海
+上海跟北京相反，因为地形和发展的关系，郊县的联系相对紧密。
+![Shanghai](http://multisim.me/media/images/shanghai.png)
 
-成都：
+#### 香港
+连接港岛和九龙的桥。
+![Hongkong](http://multisim.me/media/images/hongkong.png)
+
+#### 成都
+明显的环路和都江堰。
 ![Chengdu](http://multisim.me/media/images/chengdu.png)
+
+#### 兰州
+线性的兰州。
+![Lanzhou](http://multisim.me/media/images/lanzhou.png)
+
+#### 南京
+有南京人说从这里看到了长江大桥。我不熟悉，看不见。
+![Nanjing](http://multisim.me/media/images/nanjing.png)
+
+#### 厦门
+岛屿。
+![Xiamen](http://multisim.me/media/images/xiamen.png)
